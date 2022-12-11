@@ -61,7 +61,7 @@ Quick start
 Want to Contribute?
 ====================
 
-I am open to any feedback/pull requests, feel free to `Contact Me <https://www.atitbimali.com.np/>`_. 
+I am open to any feedback/pull requests, feel free to `Contact Me <https://www.atitbimali.com.np/>`_,
 Even if you are not a developer. Any valid resource or data in any format is appreciated. Everyone
 will be credited for their  respective contributions.
 
