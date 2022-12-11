@@ -1,8 +1,8 @@
-================
-Django Nepal
-================
 
-djangonepal is a Django app that provides information about the administrative bodies of Nepal. Currently it has
+Django Nepal
+
+
+Djangonepal is a Django app that provides information about the administrative bodies of Nepal. Currently it has
 the names of seven provinces of Nepal, name of the districts inside each of the provinces and name of all the municipalities
 ( including Metropolitan, Sub-Metropolitan and rural Municipalities aka Gaun Palika) inside each districts.
 Hope this saves your time while working on your web project based project for Nepal.
