@@ -1,5 +1,6 @@
-
+================
 Django Nepal
+================
 
 
 Djangonepal is a Django app that provides information about the administrative bodies of Nepal. Currently it has
@@ -56,4 +57,21 @@ Quick start
         admin.site.register(District)
         admin.site.register(Municipality)
 
-    
+====================
+Want to Contribute?
+====================
+
+I am open to any feedback/pull requests, feel free to [contact me](https://atitbimali.com.np/) even 
+if you are not a developer. Any valid resource or data in any format is appreciated. Everyone
+will be credited for their  respective contributions.
+
+
+================
+Future Releases
+================
+
+1. More information about each administrative divisions to be added.
+
+2. Resource Map, Census data to be added.
+
+3. Rest API to be created and made public.
