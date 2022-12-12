@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: djangonepal
-Version: 0.0.5
+Version: 0.0.7
 Summary: A Django app to get information about Adminstrative bodies of Nepal.
 Home-page: https://github.com/AtitBimali/django-nepal
 Author: Atit Bimali
@@ -19,11 +19,11 @@ Classifier: Programming Language :: Python :: 3.9
 Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
 Classifier: Topic :: Software Development :: Libraries :: Python Modules
 Requires-Python: >=3.8
-Description-Content-Type: text/markdown
 License-File: LICENSE
 
-
+================
 Django Nepal
+================
 
 
 Djangonepal is a Django app that provides information about the administrative bodies of Nepal. Currently it has
@@ -80,4 +80,21 @@ Quick start
         admin.site.register(District)
         admin.site.register(Municipality)
 
-    
+====================
+Want to Contribute?
+====================
+
+I am open to any feedback/pull requests, feel free to `Contact Me <https://www.atitbimali.com.np/>`_,
+Even if you are not a developer. Any valid resource or data in any format is appreciated. Everyone
+will be credited for their  respective contributions.
+
+
+================
+Future Releases
+================
+
+1. More information about each administrative divisions to be added.
+
+2. Resource Map, Census data to be added.
+
+3. Rest API to be created and made public.

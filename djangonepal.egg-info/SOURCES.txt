@@ -18,3 +18,5 @@ djangonepal.egg-info/requires.txt
 djangonepal.egg-info/top_level.txt
 djangonepal/migrations/0001_initial.py
 djangonepal/migrations/__init__.py
+djangonepal/scripts/geo-data.csv
+djangonepal/scripts/load_data.py
