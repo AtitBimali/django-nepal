@@ -13,12 +13,13 @@ Hope this saves your time while working on your web project based project for Ne
 Quick start
 -----------
 
-1. Add "djangonepal" to your INSTALLED_APPS setting like this::
+1. Add "djangonepal" and 'django_extensions' to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
         ...
 
         'djangonepal',
+        'django_extensions',
 
         ...
     ]
@@ -61,10 +62,16 @@ Quick start
 Want to Contribute?
 ====================
 
-I am open to any feedback/pull requests, feel free to `Contact Me <https://www.atitbimali.com.np/>`_,
+Open to any feedbacks/pull requests. Feel free to `Ping Me Anytime <https://www.atitbimali.com.np/>`_,
 Even if you are not a developer. Any valid resource or data in any format is appreciated. Everyone
 will be credited for their  respective contributions.
 
+================
+NOTE:
+================
+
+Please check the source and published date of data before submitting any kind of information regarding
+the package.
 
 ================
 Future Releases
@@ -73,5 +80,7 @@ Future Releases
 1. More information about each administrative divisions to be added.
 
 2. Resource Map, Census data to be added.
+
+3. Terrain,flora,fauna data to be added.
 
 3. Rest API to be created and made public.
