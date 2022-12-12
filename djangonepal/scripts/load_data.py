@@ -1,9 +1,13 @@
 from djangonepal.models import Province,District,Municipality
 import csv
+import os
+import sys
 
-
+import os
+mypath = os.path.abspath(__file__)
+finalpath = os.path.dirname(mypath)
 def run():
-    with open('djangonepal/geo-data.csv') as file:
+    with open(f'{finalpath}/geo-data.csv') as file:
         reader = csv.reader(file)
         next(reader)  # Advance past the header
 
