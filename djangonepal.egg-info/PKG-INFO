@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: djangonepal
-Version: 0.0.8
+Version: 0.0.9
 Summary: A Django app that provides choices for adminstrative bodies of Nepal.
 Home-page: https://github.com/AtitBimali/django-nepal
 Author: Atit Bimali
@@ -36,7 +36,7 @@ Hope this saves your time while working on your web project based project for Ne
 Quick start
 -----------
 
-1. Add "djangonepal" and 'django_extensions' to your INSTALLED_APPS setting like this::
+1. After installing add "djangonepal" and 'django_extensions' to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
         ...
