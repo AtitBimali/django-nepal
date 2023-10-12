@@ -13,7 +13,7 @@ Hope this saves your time while working on your web project based project for Ne
 Quick start
 -----------
 
-1. Add "djangonepal" and 'django_extensions' to your INSTALLED_APPS setting like this::
+1. After installing add "djangonepal" and 'django_extensions' to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
         ...
